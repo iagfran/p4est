@@ -1,2 +1,4 @@
+The present contributions to p4est were developed during the seminar "On the efficient implementation of discontinuous Galerkin methods for the solution of partial differential equations".
+
 I place my contributions to p4est in the public domain.
 Hannes Frank (frank@iag.uni-stuttgart.de)
